@@ -1,2 +1,3 @@
 # 🐍 Jogo da Cobrinha 🐍
-joguinho da cobrinha utilizando HTML, CSS e JavaScript.
+Projeto proposto pela DIO (Digital Innovation One) para treinamento das técnicas de HTML, CSS e JavaScript.
+
